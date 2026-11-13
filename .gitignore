@@ -1,0 +1,12 @@
+# Local and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Never commit secrets or local environment files
+.env
+*.key
+*.pem
+
